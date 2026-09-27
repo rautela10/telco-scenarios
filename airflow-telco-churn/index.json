@@ -1,9 +1,6 @@
 {
   "title": "Airflow for MLOps: Telco Churn Pipeline",
-  "description": {
-    "text": "Build and run a production-grade Apache Airflow DAG that automates the NexaTel Telco Churn MLOps pipeline — from data collection through LightGBM training, 3-layer validation, SHAP explanations, and score publishing.",
-    "imageUrl": ""
-  },
+  "description": "Build and run a production-grade Apache Airflow DAG that automates the NexaTel Telco Churn MLOps pipeline — from data collection through LightGBM training, 3-layer validation, SHAP explanations, and score publishing.",
   "difficulty": "Intermediate",
   "time": "45",
   "details": {
